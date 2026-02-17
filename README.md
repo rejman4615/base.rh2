@@ -6,3 +6,4 @@ my GitHub commit 4
 my GitHub commit 5
 my GitHub commit 6
 my GitHub commit 7
+my GitHub commit 8
